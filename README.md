@@ -5,13 +5,9 @@ This is a starter project for Deno projects.
 ## Installation
 
 ```bash
-# Clone repository
 git clone git@github.com:Industrial/skeleton-deno.git my-project
-# Change directory
 cd my-project
-# Remove git directory
 rm -rf .git
-# Install husky and lint-staged from npm. Initializes new .git/ directory.
 deno task prepare
 ```
 
