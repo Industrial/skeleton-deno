@@ -1,7 +1,6 @@
 {
   "tasks": {
     "dev": "echo \"TODO: Implement\"",
-    "install-dependencies": "npm i -g pnpm; pnpm i",
     "lint": "deno lint",
     "lint:watch": "deno task lint --watch",
     "test": "deno test",
